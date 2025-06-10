@@ -20,8 +20,8 @@ function Home() {
         {/* Text Content */}
         <div className='ml-8'>
           <h1 className="text-3xl md:text-4xl font-bold text-[#BCA14F] leading-tight">
-            MyBrand <br />
-            <span className="text-white font-semibold">MyBrand Initiatives</span>
+            INTARE <br />
+            <span className="text-white font-semibold"> SOUNDWAVE Initiatives</span>
           </h1>
           <p className="mt-4 text-sm md:text-base text-gray-200">
             We provide you high quality services including: shopping, streaming exclusive songs and albums.
